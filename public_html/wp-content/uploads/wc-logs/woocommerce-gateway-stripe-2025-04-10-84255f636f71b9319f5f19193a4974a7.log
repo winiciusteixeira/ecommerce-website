@@ -1,0 +1,160 @@
+2025-04-10T01:35:49+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-10T04:07:08+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-10T06:26:33+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-10T08:33:05+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-10T08:33:05+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-10T10:47:44+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-10T12:53:26+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-10T12:53:26+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-10T14:38:51+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+2025-04-10T14:38:51+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+webhook_endpoints
+====End Log====
+
+2025-04-10T14:38:52+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+webhook_endpoints
+====End Log====
+
+2025-04-10T14:38:54+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+Your domain has been verified with Apple Pay!
+====End Log====
+
+2025-04-10T14:38:54+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+webhook_endpoints
+====End Log====
+
+2025-04-10T14:38:55+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+webhook_endpoints
+====End Log====
+
+2025-04-10T14:54:02+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-10T15:33:19+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_intents/pi_3R9BTBDmyRxIVAFt2KJY5ojM?expand[]=payment_method request: Array
+(
+)
+
+====End Log====
+
+2025-04-10T15:33:19+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_intents/pi_3R9BTBDmyRxIVAFt2KJY5ojM?expand[]=payment_method response with stripe-version: 2024-06-20
+====End Log====
+
+2025-04-10T15:33:42+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_intents/pi_3R9BTBDmyRxIVAFt2KJY5ojM?expand[]=payment_method request: Array
+(
+)
+
+====End Log====
+
+2025-04-10T15:33:42+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_intents/pi_3R9BTBDmyRxIVAFt2KJY5ojM?expand[]=payment_method response with stripe-version: 2024-06-20
+====End Log====
+
+2025-04-10T17:31:19+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-10T19:50:48+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-10T22:20:07+00:00 DEBUG 
+====Stripe Version: 9.3.1====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+

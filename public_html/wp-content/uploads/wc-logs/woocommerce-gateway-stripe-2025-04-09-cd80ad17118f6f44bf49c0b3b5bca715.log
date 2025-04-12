@@ -1,0 +1,108 @@
+2025-04-09T01:49:49+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-09T04:18:10+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-09T06:37:22+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-09T08:50:59+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-09T11:05:24+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-09T11:05:24+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-09T12:52:21+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_intents/pi_3R9BTBDmyRxIVAFt2KJY5ojM?expand[]=payment_method request: Array
+(
+)
+
+====End Log====
+
+2025-04-09T12:52:22+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_intents/pi_3R9BTBDmyRxIVAFt2KJY5ojM?expand[]=payment_method response with stripe-version: 2024-06-20
+====End Log====
+
+2025-04-09T13:05:40+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-09T15:09:44+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-09T15:09:45+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-09T17:21:33+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-09T19:30:51+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-09T21:31:09+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-09T23:31:33+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+

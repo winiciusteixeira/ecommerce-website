@@ -1,0 +1,56 @@
+2025-04-02T20:54:08+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 2e67a8b445d41f9b02f10f0cc3a9721e
+            [Date] => 2 de abril de 2025 @ 20:54
+            [URL] => https://webhooks-woocommerce.omnisend.com/brands/66aa9c4215d1eb8f39fbe234/orders
+            [Duration] => 0.51845
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/9.1.4 Hookshot (WordPress/6.6.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://atitudeconfeccoes.com/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => pNQuvxipAjUnr+73XQS4RhZ53LRWYZQezOwygr76gyc=
+                            [X-WC-Webhook-ID] => 2
+                            [X-WC-Webhook-Delivery-ID] => 2e67a8b445d41f9b02f10f0cc3a9721e
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Wed, 02 Apr 2025 20:54:08 GMT
+                                    [content-length] => 0
+                                    [access-control-allow-methods] => POST,OPTIONS
+                                    [x-envoy-upstream-service-time] => 17
+                                    [via] => 1.1 google
+                                    [alt-svc] => h3=":443"; ma=86400
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=15552000
+                                    [x-content-type-options] => nosniff
+                                    [server] => cloudflare
+                                    [cf-ray] => 92a3383f4ecca511-GRU
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)

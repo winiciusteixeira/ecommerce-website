@@ -1,0 +1,301 @@
+2025-04-01T01:33:01+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-01T01:33:02+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-01T03:36:45+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-01T07:05:24+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-01T09:26:57+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-01T11:27:03+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-01T13:40:48+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-01T16:12:28+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-01T19:06:42+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-01T20:31:34+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_methods/pm_1R9BT7DmyRxIVAFt7RvNyfEQ
+====End Log====
+
+2025-04-01T20:31:35+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+customers/search request: Array
+(
+    [query] => name:'Sávio  Teixeira Silva' AND email:'saviotsilva@gmail.com'
+)
+
+====End Log====
+
+2025-04-01T20:31:35+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+customers/search response with stripe-version: 2024-06-20
+====End Log====
+
+2025-04-01T20:31:35+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+customers request: Array
+(
+    [email] => saviotsilva@gmail.com
+    [description] => Name: Sávio  Teixeira Silva , Guest
+    [name] => Sávio  Teixeira Silva
+    [metadata] => Array
+        (
+        )
+
+    [preferred_locales] => Array
+        (
+            [0] => pt-BR
+        )
+
+    [address] => Array
+        (
+            [line1] => Rua coronel pimenta, 163
+            [line2] => Casa
+            [postal_code] => 28300-000
+            [city] => Itaperuna
+            [state] => RJ
+            [country] => BR
+        )
+
+)
+
+====End Log====
+
+2025-04-01T20:31:36+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+customers response with stripe-version: 2024-06-20
+====End Log====
+
+2025-04-01T20:31:36+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_methods/pm_1R9BT7DmyRxIVAFt7RvNyfEQ
+====End Log====
+
+2025-04-01T20:31:36+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_intents request: Array
+(
+    [capture_method] => automatic
+    [payment_method] => pm_1R9BT7DmyRxIVAFt7RvNyfEQ
+    [shipping] => Array
+        (
+            [name] => Sávio Teixeira Silva
+            [address] => Array
+                (
+                    [line1] => Rua coronel pimenta, 163
+                    [line2] => Casa
+                    [city] => Itaperuna
+                    [country] => BR
+                    [postal_code] => 28300-000
+                    [state] => RJ
+                )
+
+        )
+
+    [amount] => 6964
+    [confirm] => false
+    [currency] => brl
+    [customer] => cus_S3I397kiPOTgIA
+    [description] => Atitude Confecções - Pedido 2331
+    [metadata] => Array
+        (
+            [customer_name] => Sávio Teixeira Silva
+            [customer_email] => saviotsilva@gmail.com
+            [site_url] => https://atitudeconfeccoes.com
+            [order_id] => 2331
+            [order_key] => wc_order_fBW8DqL7DKvvR
+            [payment_type] => single
+        )
+
+    [payment_method_types] => Array
+        (
+            [0] => boleto
+        )
+
+    [payment_method_options] => Array
+        (
+        )
+
+)
+
+====End Log====
+
+2025-04-01T20:31:37+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_intents response with stripe-version: 2024-06-20
+====End Log====
+
+2025-04-01T21:32:07+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+account
+====End Log====
+
+2025-04-01T22:49:53+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_intents/pi_3R9BTBDmyRxIVAFt2KJY5ojM?expand[]=payment_method request: Array
+(
+)
+
+====End Log====
+
+2025-04-01T22:49:53+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_intents/pi_3R9BTBDmyRxIVAFt2KJY5ojM?expand[]=payment_method response with stripe-version: 2024-06-20
+====End Log====
+
+2025-04-01T22:51:09+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_intents/pi_3R9BTBDmyRxIVAFt2KJY5ojM?expand[]=payment_method request: Array
+(
+)
+
+====End Log====
+
+2025-04-01T22:51:10+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_intents/pi_3R9BTBDmyRxIVAFt2KJY5ojM?expand[]=payment_method response with stripe-version: 2024-06-20
+====End Log====
+
+2025-04-01T22:52:41+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_intents/pi_3R9BTBDmyRxIVAFt2KJY5ojM?expand[]=payment_method request: Array
+(
+)
+
+====End Log====
+
+2025-04-01T22:52:41+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_intents/pi_3R9BTBDmyRxIVAFt2KJY5ojM?expand[]=payment_method response with stripe-version: 2024-06-20
+====End Log====
+
+2025-04-01T22:53:53+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_intents/pi_3R9BTBDmyRxIVAFt2KJY5ojM?expand[]=payment_method request: Array
+(
+)
+
+====End Log====
+
+2025-04-01T22:53:54+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_intents/pi_3R9BTBDmyRxIVAFt2KJY5ojM?expand[]=payment_method response with stripe-version: 2024-06-20
+====End Log====
+
+2025-04-01T22:58:30+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_intents/pi_3R9BTBDmyRxIVAFt2KJY5ojM?expand[]=payment_method request: Array
+(
+)
+
+====End Log====
+
+2025-04-01T22:58:31+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_intents/pi_3R9BTBDmyRxIVAFt2KJY5ojM?expand[]=payment_method response with stripe-version: 2024-06-20
+====End Log====
+
+2025-04-01T22:59:22+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_intents/pi_3R9BTBDmyRxIVAFt2KJY5ojM?expand[]=payment_method request: Array
+(
+)
+
+====End Log====
+
+2025-04-01T22:59:22+00:00 DEBUG 
+====Stripe Version: 8.7.0====
+====Stripe Plugin API Version: 2024-06-20====
+====Start Log====
+payment_intents/pi_3R9BTBDmyRxIVAFt2KJY5ojM?expand[]=payment_method response with stripe-version: 2024-06-20
+====End Log====
+
